@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">강의 12장 SQLite</string>
+
+    <string name="main_btn_exam01">26~37 -실습 12-2 가수 그룹 관리 DB 만들기</string>
+    <string name="main_btn_exam02">39~41 -실습 12-2 가수 그룹 관리 DB 만들기(수정)</string>
+
+    <string name="main_btn_prac01">연습문제1 (8장 일기장 DB로)</string>
+</resources>
